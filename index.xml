@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title></title>
+  <atom:link href="http://steveprudhomme.org/index.xml" rel="self" type="application/rss+xml" />
+  <link>http://steveprudhomme.org/</link>
+  <description><![CDATA[]]></description>
+  <language>fr</language>
+  <pubDate>Sat, 25 Feb 2017 23:22:05 -0500</pubDate>
+  <lastBuildDate>Sat, 25 Feb 2017 23:22:05 -0500</lastBuildDate>
+  <generator>Emacs 25.1 Org-mode 9.0.3</generator>
+  <webMaster>steve@DESKTOP-IV999L9 (nil)</webMaster>
+  <image>
+    <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
+    <title></title>
+    <link>http://steveprudhomme.org/</link>
+  </image>
+
+  <item>
+    <title>Nouveau blogue</title>
+    <link>http://steveprudhomme.org/index.html#orgf97f827</link>
+    <author>steve@DESKTOP-IV999L9 (nil)</author>
+    <guid isPermaLink="false">http://steveprudhomme.org/index.html#orgf97f827</guid>
+    <pubDate>Sat, 25 Feb 2017 23:22:00 -0500</pubDate>
+
+    <description><![CDATA[<p>
+    Bienvenur sur mon nouveau blogue. Pour le créer j'utilise l'éditeur de
+    texte EMACS et org-mode.
+  </p>
+    ]]></description>
+  </item>
+</channel>
+</rss>
